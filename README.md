@@ -17,8 +17,6 @@ Data Science student at UCA Rosario (Argentina), focused on applied machine lear
 
 ## 🛠️ Stack
 
-## 🛠️ Stack
-
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
