@@ -64,6 +64,6 @@ Critical node identification in infrastructure networks using PageRank and Marko
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/choco721)
-
+[![LinkedIn](https://www.linkedin.com/in/juan-cruz-chocobares-819763198/)
 ***
 
