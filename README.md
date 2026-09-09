@@ -10,7 +10,9 @@ Data Science student at UCA Rosario (Argentina), focused on applied machine lear
 
 - Time series modeling and forecasting (ARIMA/SARIMA, GARCH, Holt-Winters)
 - Applied machine learning on real problems: from feature engineering to the final model
-- Numerical methods and computational statistics (Markov chains, Monte Carlo)
+- Databases and data engineering: relational modeling (OLTP/OLAP), SQL, and ETL pipelines
+- Data warehousing and lakehouse workflows: DuckDB, dbt, Airflow, and modern table formats
+- Numerical methods and computational statistics (Markov chains, Monte Carlo, simulation)
 - Long-term interest: security in data and ML systems
 
 ***
