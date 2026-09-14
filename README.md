@@ -27,8 +27,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cruz-chocobares-819763198/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juancruzchocobares@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=choco721&label=profile%20views&style=flat-square&color=39d353)
-
 ***
 
 ## 🎯 What I'm focused on
