@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="visual_map.png" width="300" alt="visual map"/>
+  <img src="visual_map.gif" width="300" alt="visual map"/>
 </div>
 
 # Juan Cruz Chocobares
