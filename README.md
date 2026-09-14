@@ -1,8 +1,34 @@
-# Hi, I'm Juan Cruz Chocobares 👋
+<div align="center">
+  <img src="visual_map.png" width="300" alt="visual map"/>
+</div>
 
-Data Science Student · UCA Rosario
+# Juan Cruz Chocobares
 
-Data Science student at UCA Rosario (Argentina), focused on applied machine learning and time series. I care about the full path: from exploration in notebooks to models that actually support decisions. Previously studied a year and a half of Industrial Engineering, which stuck with me as a complementary foundation. Based in Rosario 🇦🇷.
+```
+profile.sh --live
+┌─────────────────────────────────────────────────────────┐
+│  SYSTEM.INFO                                    ● LIVE   │
+├─────────────────────────────────────────────────────────┤
+│  Subject .......... Juan Cruz Chocobares                 │
+│  Role ............. Data Science Student                 │
+│  Origin ........... Rosario, Argentina                   │
+│  Education ........ Lic. en Ciencias de Datos · UCA      │
+│  Status ........... Building + Learning + Forecasting    │
+│  Core.Lang ........ Python · R · SQL                     │
+│  Core.ML .......... scikit-learn · TensorFlow · Keras    │
+│  Core.Data ........ pandas · NumPy · DuckDB · dbt        │
+│  Core.Infra ....... Docker · Airflow · Git               │
+│  Focus ............ Time Series · ML · Data Engineering  │
+│  Grid.LinkedIn .... /in/juan-cruz-chocobares             │
+│  Grid.GitHub ...... @choco721                            │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Architecture of Data · Time Series · Machine Learning**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cruz-chocobares-819763198/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juancruzchocobares@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=choco721&label=profile%20views&style=flat-square&color=39d353)
 
 ***
 
@@ -55,6 +81,7 @@ Data Science student at UCA Rosario (Argentina), focused on applied machine lear
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ***
 
 ## 🚀 Projects
@@ -83,13 +110,3 @@ Critical node identification in infrastructure networks using PageRank and Marko
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=choco721&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="Streak"/>
 </div>
-
-***
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cruz-chocobares-819763198/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juancruzchocobares@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/choco721)
-***
-
