@@ -12,12 +12,7 @@
 │  Role ............. Data Science Student                 │
 │  Origin ........... Rosario, Argentina                   │
 │  Education ........ Lic. en Ciencias de Datos · UCA      │
-│  Status ........... Building + Learning + Forecasting    │
-│  Core.Lang ........ Python · R · SQL                     │
-│  Core.ML .......... scikit-learn · TensorFlow · Keras    │
-│  Core.Data ........ pandas · NumPy · DuckDB · dbt        │
-│  Core.Infra ....... Docker · Airflow · Git               │
-│  Focus ............ Time Series · ML · Data Engineering  │
+│  Status ........... Building + Learning + Forecasting    │  │
 │  Grid.LinkedIn .... /in/juan-cruz-chocobares             │
 │  Grid.GitHub ...... @choco721                            │
 └─────────────────────────────────────────────────────────┘
