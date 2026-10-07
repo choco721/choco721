@@ -6,15 +6,15 @@
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  SYSTEM.INFO                                    ● LIVE   │
+│  SYSTEM.INFO                                    ● LIVE  │
 ├─────────────────────────────────────────────────────────┤
-│  Subject .......... Juan Cruz Chocobares                 │
-│  Role ............. Data Science Student                 │
-│  Origin ........... Rosario, Argentina                   │
-│  Education ........ Lic. en Ciencias de Datos · UCA      │
-│  Status ........... Building + Learning + Forecasting    │  │
-│  Grid.LinkedIn .... /in/juan-cruz-chocobares             │
-│  Grid.GitHub ...... @choco721                            │
+│  Subject .......... Juan Cruz Chocobares                │
+│  Role ............. Data Science Student                │
+│  Origin ........... Rosario, Argentina                  │
+│  Education ........ Lic. en Ciencias de Datos · UCA     │
+│  Status ........... Building + Learning + Forecasting   │  
+│  Grid.LinkedIn .... /in/juan-cruz-chocobares            │
+│  Grid.GitHub ...... @choco721                           │
 └─────────────────────────────────────────────────────────┘
 ```
 
